@@ -415,6 +415,15 @@ a:hover .fa-circle {
     background-size: cover;
 }
 
+#project {
+    width: 100%;
+    background: url(../img/banner/banner2.jpg)  no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+
 @media(max-width:768px) {
     #cause,
     #cause2,
